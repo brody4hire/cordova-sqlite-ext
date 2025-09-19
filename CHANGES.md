@@ -1,5 +1,11 @@
 # Changes
 
+### cordova-sqlite-ext 7.0.0
+
+- use cordova-sqlite-ext-deps 5.0.0 with SQLite & Android build updates: minimum Android API -> 24 (Android 7.0), with 16 KB page alignment update
+
+NOTE: cordova-sqlite-ext-deps 5.0.0 has slightly different SQLite versions for Android vs other platforms - TODO: update with recent & consistent SQLite version for all platforms
+
 ### cordova-sqlite-ext 6.0.0
 
 ### cordova-sqlite-ext-common 5.1.0
